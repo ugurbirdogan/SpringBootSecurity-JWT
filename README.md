@@ -1,5 +1,6 @@
 # SpringBootSecurity-JWT
 SpringBootSecurity-JSON-JWT
+Simple jwt example with spring boot security
 
 ## Project Structure
 ![WhatsApp Image 2021-10-26 at 11 05 17](https://user-images.githubusercontent.com/41667882/138840847-6b1f1625-53a3-46a1-b3b2-a4b484735918.jpeg)
